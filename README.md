@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey there — thanks for stopping by! 👋
+Welcome to my little corner of GitHub ✨
 
-<!--
-**codewithaveri/codewithaveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m just getting started on my GitHub journey, learning as I go and sharing projects along the way. I'm passionate about growing in my career, picking up new tech skills, and finding fun in the everyday hustle.
 
-Here are some ideas to get you started:
+Here, you’ll find:
+🛠️ Small projects and experiments I’m building
+📚 Things I’ve learned while exploring new tools and workflows
+🌱 A few personal reflections from my life in tech (and beyond)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether you're here to learn, connect, or just explore — I’m so glad you’re here. Let’s grow together, one repo at a time 🌿
+
+You bring the snacks, I’ll bring the code. 🍪💻
+
+🌐 Socials:
+ [[LinkedIn](https://www.linkedin.com/in/averighosh/)] 
+ 
+💻 SKills (so far!):
+ Power BI · AI Prompting Fundamentals · Gen AI Tools
+(…and always learning more!)
