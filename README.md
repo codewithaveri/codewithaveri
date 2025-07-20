@@ -16,5 +16,6 @@ You bring the snacks, I’ll bring the code. 🍪💻
  [[LinkedIn](https://www.linkedin.com/in/averighosh/)] 
  
 💻 SKills (so far!):
+
  Power BI · AI Prompting Fundamentals · Gen AI Tools
 (…and always learning more!)
