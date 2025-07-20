@@ -1,4 +1,4 @@
-Hey there — thanks for stopping by! 👋
+🌸 Hey there — thanks for stopping by! 👋
 Welcome to my little corner of GitHub ✨
 
 I’m just getting started on my GitHub journey, learning as I go and sharing projects along the way. I'm passionate about growing in my career, picking up new tech skills, and finding fun in the everyday hustle.
